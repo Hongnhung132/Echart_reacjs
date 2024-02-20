@@ -4,3 +4,4 @@ Tạo project reacjs:
         cd my-chart
         npm start
 Install package echart:
+    npm install echarts 
